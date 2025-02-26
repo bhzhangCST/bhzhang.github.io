@@ -15,9 +15,10 @@ You can find my CV here: [Bohou Zhang's Curriculum Vitae](https://yiwencheung.gi
 **2022.8-Current**:    Hua Xia Talent Program in Computer Science and Technology, USTC.
 
 ## HONORS 
- - Outstanding Student Scholarship of USTC.
+ - Outstanding Student Scholarship of USTC.\
    <small>University of Science and Technology of China</small>
- - Outstanding Campers of Kunpeng & Shengteng AI Summer Camp(First Place).
+ - Outstanding Campers of Kunpeng & Shengteng AI Summer Camp(First Place).\
+   <small> Hangzhou Research Institute of HuaWei Technologies Co., Ltd</small>
 
 ## PUBLICATION
 \[S.1\] Yan Zhuang, Qi Liu, Junhao Yu, **Bohou Zhang**, Zhenya Huang, Zachary A.Pardos, Jinze Wu, Enhong Chen
